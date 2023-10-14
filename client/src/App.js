@@ -1,7 +1,14 @@
-import './App.css';
+import React, { useState } from "react";
 
 // STYLES 🎨
 import 'bulma/css/bulma.css';
+import './App.css';
+
+// FunctionalComponents
+const Header = () => {
+  const [active, setActive] = useState(false);
+};
+
 
 function App() {
   return (

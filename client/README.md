@@ -7,6 +7,8 @@ with React
 [How to use Bulma in React](https://blog.logrocket.com/how-to-use-bulma-css-with-react/)
 
 
+[Bulma Navbar Docs](https://bulma.io/documentation/components/navbar/)
+
 **To get started**
 
 For React App:
@@ -20,6 +22,8 @@ For a regular HTML page:
 `<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css">`
 
 By importing into App.js or linking in the head of the html, Bulma's components, elements, variables, and more can be used within the project. For React, Bulma only needs to be imported once into the App.js which will share Bulma with children components. 
+
+
 
 
 **Colors**
@@ -46,3 +50,8 @@ It is a set of attributes used to add HTML elements with improved accessibility 
     1. disabled
     
 ![state](assets/state.png)
+
+
+
+**Side Notes**
+1. Files saved as .tsx instead of .jsx are typescript files. TypeScript is a superset of JavaScript that adds static typing to the language. TypeScript allows annotations, perform static type checking and more. React plus TypeScript has become popular because of the early abilities to catch errors in the development process. TypeScript makes code more robust and easier to maintain. 
