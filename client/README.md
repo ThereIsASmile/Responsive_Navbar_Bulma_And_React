@@ -9,6 +9,8 @@ with React
 
 [Bulma Navbar Docs](https://bulma.io/documentation/components/navbar/)
 
+[HeySteveGray Bulma and React Hooks](https://heystevegray.dev/til/how-to-create-a-responsive-navbar-with-bulma-and-react-hooks/)
+
 **To get started**
 
 For React App:
