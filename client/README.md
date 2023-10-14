@@ -19,13 +19,16 @@ For a regular HTML page:
 
 `<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css">`
 
+By importing into App.js or linking in the head of the html, Bulma's components, elements, variables, and more can be used within the project. For React, Bulma only needs to be imported once into the App.js which will share Bulma with children components. 
 
+
+**Colors**
+![colors](assets/Colors.png)
 
 **Things to know about:**
-
 1. aria stands for Accessible Rich Internet Applications.
 It is a set of attributes used to add HTML elements with improved accessibility for users with disabilities. The aria element is used for screen readers and other assistive technologies. 
 
-
-** Colors **
-![colors](assets/Colors.png)
+2. Most Bulma elements use 
+    1. is-
+    1. has-
