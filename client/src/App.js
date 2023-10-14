@@ -9,16 +9,21 @@ function App() {
 
       <div classname="main">
         <div className="buttons">
-          <button class="button is-primary">Primary</button>
-          <button class="button is-link">Link</button>
-          <button class="button is-info">Info</button>
-          <button class="button is-success">Success</button>
-          <button class="button is-warning">Warning</button>
-          <button class="button is-danger">Danger</button>
-          <button class="button is-black">Black</button>
-          <button class="button is-white">White</button>
-          <button class="button is-dark">Dark</button>
-          <button class="button is-light">Light</button>
+          <button class="button is-primary is-large">Primary</button>
+          <button class="button is-link is-medium">Link</button>
+          <button class="button is-info is-small">Info</button>
+          <button class="button is-success is-medium">Success</button>
+          <button class="button is-warning is-large">Warning</button>
+          <button class="button is-danger is-medium">Danger</button>
+          <button class="button is-black is-small">Black</button>
+          <button class="button is-white is-medium">White</button>
+          <button class="button is-dark is-large">Dark</button>
+          <button class="button is-light is-medium">Light</button>
+        </div>
+        <div className="buttons">
+          <button class="button is-success is-outlined">Outlined</button>
+          <button class="button is-warning is-loading">Loading</button>
+          <button class="button is-danger" disabled>Disabled</button>
         </div>
       </div>
 

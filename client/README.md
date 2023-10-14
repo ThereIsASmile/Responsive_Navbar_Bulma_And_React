@@ -24,6 +24,7 @@ By importing into App.js or linking in the head of the html, Bulma's components,
 
 **Colors**
 ![colors](assets/Colors.png)
+Sass can be used to create more colors?
 
 **Things to know about:**
 1. aria stands for Accessible Rich Internet Applications.
@@ -32,3 +33,11 @@ It is a set of attributes used to add HTML elements with improved accessibility 
 2. Most Bulma elements use 
     1. is-
     1. has-
+![size](assets/Size.png)
+
+
+3. Control the state of elements and components
+    1. is-outlined
+    1. is-loading
+    1. disabled
+![state](assets/state.png)
