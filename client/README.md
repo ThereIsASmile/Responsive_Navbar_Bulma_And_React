@@ -1,6 +1,9 @@
 # Responsive Hamburger Nav in Bulma 
 with React
 
+![colors](assets/desktop_nav.png)
+
+![colors](assets/mobile_nav.png)
 
 [Bulma Docs](https://bulma.io/documentation/overview/start/)
 
