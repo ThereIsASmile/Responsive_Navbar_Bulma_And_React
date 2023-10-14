@@ -27,3 +27,5 @@ For a regular HTML page:
 It is a set of attributes used to add HTML elements with improved accessibility for users with disabilities. The aria element is used for screen readers and other assistive technologies. 
 
 
+** Colors **
+![colors](assets/Colors.png)
