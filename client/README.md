@@ -13,6 +13,7 @@ with React
 [HeySteveGray Bulma and React Hooks did not explain well, did not even mention that he's using TypeScript. Hard to follow.](https://heystevegray.dev/til/how-to-create-a-responsive-navbar-with-bulma-and-react-hooks/)
 
 
+
 **To get started**
 
 For React App:
@@ -35,8 +36,8 @@ By importing into App.js or linking in the head of the html, Bulma's components,
 Sass can be used to create more colors?
 
 **Things to know about:**
-1. aria stands for Accessible Rich Internet Applications.
-It is a set of attributes used to add HTML elements with improved accessibility for users with disabilities. The aria element is used for screen readers and other assistive technologies. 
+1. Bulma is built with mobile first design. Elements can be hidden or shown by using classes like is-hidden-mobile or is-hidden-tablet and etc.
+
 
 2. Most Bulma elements use 
     1. is-
@@ -56,6 +57,8 @@ It is a set of attributes used to add HTML elements with improved accessibility 
 ![state](assets/state.png)
 
 
+4. aria stands for Accessible Rich Internet Applications.
+It is a set of attributes used to add HTML elements with improved accessibility for users with disabilities. The aria element is used for screen readers and other assistive technologies. 
 
 **Side Notes**
 1. Files saved as .tsx instead of .jsx are typescript files. TypeScript is a superset of JavaScript that adds static typing to the language. TypeScript allows annotations, perform static type checking and more. React plus TypeScript has become popular because of the early abilities to catch errors in the development process. TypeScript makes code more robust and easier to maintain. 
