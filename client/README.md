@@ -36,6 +36,7 @@ It is a set of attributes used to add HTML elements with improved accessibility 
         1. is-medium
         1. is-large
     1. has-
+
 ![size](assets/Size.png)
 
 
