@@ -32,6 +32,9 @@ It is a set of attributes used to add HTML elements with improved accessibility 
 
 2. Most Bulma elements use 
     1. is-
+        1. is-small
+        1. is-medium
+        1. is-large
     1. has-
 ![size](assets/Size.png)
 
@@ -40,4 +43,5 @@ It is a set of attributes used to add HTML elements with improved accessibility 
     1. is-outlined
     1. is-loading
     1. disabled
+    
 ![state](assets/state.png)
