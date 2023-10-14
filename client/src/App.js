@@ -1,18 +1,16 @@
-import React, { useState } from "react";
+// import React, { useState } from "react";
 
 // STYLES 🎨
 import 'bulma/css/bulma.css';
 import './App.css';
 
-// FunctionalComponents
-const Header = () => {
-  const [active, setActive] = useState(false);
-};
 
 
 function App() {
   return (
     <div className="App">
+      <h1>React Bulma Navbar Toggle</h1>
+
 
       <div classname="main">
         <div className="buttons">
